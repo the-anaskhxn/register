@@ -8,6 +8,8 @@
     <img src="https://img.shields.io/github/issues-pr/thedev-me/register?label=Pull%20Requests&style=for-the-badge&color=FFA500" alt="GitHub pull requests">&nbsp;&nbsp;
 </p>
 
+##i wanna create internetanas.thedev.me 
+
 
 ## How to Get Your Subdomain
 
